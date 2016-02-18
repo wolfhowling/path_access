@@ -1,0 +1,11 @@
+name: 'Path Access'
+description: 'Restrict access to any paths by user role'
+package: 'Access control'
+core: 8.x
+dependencies:
+  - chain_menu_access
+  - path
+version: 8.x-1.0
+project: path_access
+datestamp: '1361785641'
+type: module
